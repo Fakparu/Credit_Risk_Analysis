@@ -1,6 +1,13 @@
 # Credit_Risk_Analysis
 Solve Credit Card Risk with Machine Learning
 
+## Overview of loan preiction risk analysis
+Good loans are easily outnumbered by risky loans due to credit risk fundamental unbalanced classification problem. In this analysis, different techniques were deployed to train and evaluate models with unbalanced classes with credit card dataset from LendingClub, a peer-to-peer lending services company.
+
+## Steps
+1. Data is sampled using RandomOverSampler and SMOTE algorithms and undersampled data with ClusterCentroids algorithm.
+2. Two new machine learning that reduces bias compared, BalancedRandomForestClassifier and EasyEnsembleClassifier to predict credit risk.
+
 ## Results
 
 ### RandomOverSampler
@@ -24,3 +31,8 @@ Solve Credit Card Risk with Machine Learning
 
 ### EasyEnsembleClassifier
 ![image](https://user-images.githubusercontent.com/105121697/188295130-6980bc93-0e41-4835-a552-bf2178d58bdd.png)
+
+
+### Summary of results
+
+### Recommendation on which model to use or no recommendation without justification
