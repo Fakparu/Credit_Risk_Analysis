@@ -13,7 +13,12 @@ describe the balanced accuracy scores and the precision and recall scores
 
 ### RandomOverSampler
 •	The balance accuracy score for RandomOverSampler is 0.66
-•	The precision - TP/(TP + FN)
+
+The precision -TP/(TP + FP) 
+71/(71 +30) = 0.70
+
+•	The recall - TP/(TP + FN) 
+71/(71 +30) = 0.70
 
 ![image](https://user-images.githubusercontent.com/105121697/188295493-50395539-7569-47e4-874d-32e1f01d6d53.png)
 
