@@ -9,18 +9,9 @@ Good loans are easily outnumbered by risky loans due to credit risk fundamental 
 2. Two new machine learning that reduces bias compared, BalancedRandomForestClassifier and EasyEnsembleClassifier to predict credit risk.
 
 ## Results
-describe the balanced accuracy scores and the precision and recall scores 
 
 ### RandomOverSampler
-•	The balance accuracy score for RandomOverSampler is 0.6616
 
-The precision -True Positive/(True Postive + False Positive) 
-
-71/(71 +30) = 0.0108
-
-•	The recall - True Positive/(True Positive + False Negative) 
-
-71/(71 + 30) = 0.70
 
 ![image](https://user-images.githubusercontent.com/105121697/188295493-50395539-7569-47e4-874d-32e1f01d6d53.png)
 
