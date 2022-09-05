@@ -9,6 +9,7 @@ Good loans are easily outnumbered by risky loans due to credit risk fundamental 
 2. Two new machine learning that reduces bias compared, BalancedRandomForestClassifier and EasyEnsembleClassifier to predict credit risk.
 
 ## Results
+describe the balanced accuracy scores and the precision and recall scores 
 
 ### RandomOverSampler
 ![image](https://user-images.githubusercontent.com/105121697/188295493-50395539-7569-47e4-874d-32e1f01d6d53.png)
