@@ -12,7 +12,7 @@ Good loans are easily outnumbered by risky loans due to credit risk fundamental 
 describe the balanced accuracy scores and the precision and recall scores 
 
 ### RandomOverSampler
-•	The balance accuracy score for RandomOverSampler is 0.66
+•	The balance accuracy score for RandomOverSampler is 0.6616
 
 The precision -True Positive/(True Postive + False Positive) 
 
