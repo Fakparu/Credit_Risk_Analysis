@@ -27,7 +27,7 @@ The precision -True Positive/(True Postive + False Positive)
 
 ### SMOTE
 ![image](https://user-images.githubusercontent.com/105121697/188294970-126b65cf-d3ac-4daf-87bb-2833641b62d0.png)
-![image](https://user-images.githubusercontent.com/105121697/188295243-25c433e3-3436-45f6-999b-11135990ca41.png)
+
 
 ### SMOTEENN
 ![image](https://user-images.githubusercontent.com/105121697/188295373-f397674d-1a2e-4371-9df3-7bd7ef22d825.png)
