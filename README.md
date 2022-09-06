@@ -35,10 +35,22 @@ For this model (SMOTE)
 
 
 ### SMOTEENN
+For this model (SMOTEENN) 
+
+•	The accuracy score = 0.52
+•	Precision score = 0.99
+•	Recall score = 0.57
+
 ![image](https://user-images.githubusercontent.com/105121697/188295373-f397674d-1a2e-4371-9df3-7bd7ef22d825.png)
 
 
 ### ClusterCentroids
+For this model (ClusterCentroids) 
+
+•	The accuracy score is 0.66
+•	Precision score is 0.99
+•	Recall score is 0.57
+
 ![image](https://user-images.githubusercontent.com/105121697/188295292-bdc489d3-0ac9-4878-bf38-c6685d75bcce.png)
 
 
