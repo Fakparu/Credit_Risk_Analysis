@@ -84,6 +84,6 @@ For this model (EasyEnsembleClassifier)
 
 ### Summary of results
 
-In summary,
+In summary, the precision scores for all the models alright. I will recommend EasyEnsambleClassifier and BalancedRandomForestClassifiers, both performed well in the High Risk Loan Precision Analysis.
 
 ### Recommendation on which model to use or no recommendation without justification
