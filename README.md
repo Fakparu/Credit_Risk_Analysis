@@ -18,11 +18,13 @@ For this model (RandomOverSampler)
 •	Precision score = 0.99
 
 •	Recall score = 0.62
+
 ![image](https://user-images.githubusercontent.com/105121697/188295493-50395539-7569-47e4-874d-32e1f01d6d53.png)
 
 
 ### SMOTE
-For this model (SMOTE) 
+For this model (SMOTE)
+
 •	The accuracy score = 0.66
 
 •	Precision score = 0.99
