@@ -11,12 +11,19 @@ Good loans are easily outnumbered by risky loans due to credit risk fundamental 
 ## Results
 
 ### RandomOverSampler
-
-
+For this model (RandomOverSampler) 
+•	The accuracy score = 0.66
+•	Precision score = 0.99
+•	Recall score = 0.62
 ![image](https://user-images.githubusercontent.com/105121697/188295493-50395539-7569-47e4-874d-32e1f01d6d53.png)
 
 
 ### SMOTE
+For this model (SMOTE) 
+•	The accuracy score = 0.66
+•	Precision score = 0.99
+•	Recall score = 0.69
+
 ![image](https://user-images.githubusercontent.com/105121697/188294970-126b65cf-d3ac-4daf-87bb-2833641b62d0.png)
 
 
