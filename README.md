@@ -84,6 +84,6 @@ For this model (EasyEnsembleClassifier)
 
 ### Summary of results
 
-In summary, the precision scores for all the models alright. I will recommend the use of EasyEnsambleClassifier and BalancedRandomForestClassifiers to predict credit risk, both performed well, provided high scores in predicting credit risk analysis.
+In summary, the precision scores for all the models alright. I will recommend the use of EasyEnsambleClassifier and BalancedRandomForestClassifiers to predict credit risk, both performed well, provided high scores on risky loans on the analysi, predicting credit risk.
 
 
