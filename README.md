@@ -38,4 +38,6 @@ Good loans are easily outnumbered by risky loans due to credit risk fundamental 
 
 ### Summary of results
 
+In summary,
+
 ### Recommendation on which model to use or no recommendation without justification
