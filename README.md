@@ -49,20 +49,36 @@ For this model (SMOTEENN)
 ### ClusterCentroids
 For this model (ClusterCentroids) 
 
-•	The accuracy score is 0.66
+•	The accuracy score = 0.66
 
-•	Precision score is 0.99
+•	Precision score = 0.99
 
-•	Recall score is 0.57
+•	Recall score = 0.57
 
 ![image](https://user-images.githubusercontent.com/105121697/188295292-bdc489d3-0ac9-4878-bf38-c6685d75bcce.png)
 
 
 ### BalancedRandomForestClassifier
+For this model (BalancedRandomForestClassifier) 
+
+•	The accuracy score = 0.91
+
+•	Precision score = 0.92
+
+•	Recall score = 0.91
+
 ![image](https://user-images.githubusercontent.com/105121697/188295086-28898070-1b65-46c9-aba5-bf5f1734165c.png)
 
 
 ### EasyEnsembleClassifier
+For this model (EasyEnsembleClassifier)
+
+•	The accuracy score = 0.91
+
+•	Precision score = 0.92
+
+•	Recall score =  0.91
+
 ![image](https://user-images.githubusercontent.com/105121697/188295130-6980bc93-0e41-4835-a552-bf2178d58bdd.png)
 
 
