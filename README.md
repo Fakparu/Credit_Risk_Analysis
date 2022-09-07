@@ -90,6 +90,10 @@ For this model (EasyEnsembleClassifier)
 
 ### Summary of results
 
-In summary, the precision scores for all the models are alright. I will recommend the use of EasyEnsambleClassifier and BalancedRandomForestClassifiers to predict credit risk, both performed well, provided high scores on risky loans on the analysis, predicting credit risk.
+In summary, EasyEnsambleClassifier and BalancedRandomForestClassifiers has the highest accuracy score of 91%, precision score, recall score and F1 score for high risk  loans while SMOTEENN has the lowest accuracy score of 56% for high risk loans.
+
+### Recommendation
+
+The precision scores for all the models for high risk are relatively low and the precision scores for low risk is close to 100% for all models.  I will recommend the use of EasyEnsambleClassifier and BalancedRandomForestClassifiers to predict credit risk, both performed well, provided high scores on risky loans on the analysis, predicting credit risk. For the bank, to target discovering many high risky loans, EasyEnsambleClassifier and BalancedRandomForestClassifiers would be the chioce.
 
 
