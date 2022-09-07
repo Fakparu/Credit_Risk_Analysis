@@ -65,11 +65,12 @@ For this model (ClusterCentroids)
 ### BalancedRandomForestClassifier
 For this model (BalancedRandomForestClassifier) 
 
-•	The accuracy score = 0.91
+•	The balanced accuracy score is 91.2%.
 
-•	Precision score = 0.92
+•	In the high-risk for this model, the precision score is 96% and recall score is 87% with F1 score of 91%.
 
-•	Recall score = 0.91
+•	In the low risk for this model, the precision score is 87% and recall score is 91% and F1 score is 91%.
+
 
 ![image](https://user-images.githubusercontent.com/105121697/188295086-28898070-1b65-46c9-aba5-bf5f1734165c.png)
 
