@@ -26,11 +26,12 @@ For this model (RandomOverSampler)
 ### SMOTE
 For this model (SMOTE)
 
-•	The accuracy score = 0.66
+•	The balanced accuracy score is 66%.
 
-•	Precision score = 0.99
+•	In the high-risk for this model, the precision score is 1%, recall score is 63% and F1 score is 2%.
 
-•	Recall score = 0.69
+•	In the low risk for this model, the precision score is 100%,  recall score is 69% and F1 score is 82%.
+
 
 ![image](https://user-images.githubusercontent.com/105121697/188294970-126b65cf-d3ac-4daf-87bb-2833641b62d0.png)
 
