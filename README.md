@@ -90,7 +90,7 @@ For this model (EasyEnsembleClassifier)
 
 ### Summary of results
 
-In summary, EasyEnsambleClassifier and BalancedRandomForestClassifiers has the highest accuracy score of 91%, precision score, recall score and F1 score for high risk  loans while SMOTEENN has the lowest accuracy score of 56% for high risk loans.
+In summary, from the result of all the models above, EasyEnsambleClassifier and BalancedRandomForestClassifiers has the highest accuracy score of 91%, precision score, recall score and F1 score for high risk  loans while SMOTEENN has the lowest accuracy score of 56% for high risk loans.
 
 ### Recommendation
 
