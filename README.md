@@ -13,11 +13,12 @@ Good loans are easily outnumbered by risky loans due to credit risk fundamental 
 ### RandomOverSampler
 For this model (RandomOverSampler)
 
-•	The accuracy score = 0.66
+•	The balanced accuracy score is 66%.
 
-•	Precision score = 0.99
+•	In the high-risk for this model, the precision score is 1%,  recall score is 70% and F1 score is 2%.
 
-•	Recall score = 0.62
+•	In the low risk for this model, the precision score is 100% and recall score is 62%. Most of the100% predicted low-risk are true positive, while 62% low-risk are correct with a F1 score of 76%.
+
 
 ![image](https://user-images.githubusercontent.com/105121697/188295493-50395539-7569-47e4-874d-32e1f01d6d53.png)
 
