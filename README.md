@@ -39,11 +39,12 @@ For this model (SMOTE)
 ### SMOTEENN
 For this model (SMOTEENN) 
 
-•	The accuracy score = 0.52
+•	The balanced accuracy score is 56%.
 
-•	Precision score = 0.99
+•	In the high-risk for this model, the precision score is 1% and recall score is 72% with F1 score of 2%.
 
-•	Recall score = 0.57
+•	In the low risk for this model, the precision score is 100% and recall score is 57% and F1 score is 72%.
+
 
 ![image](https://user-images.githubusercontent.com/105121697/188295373-f397674d-1a2e-4371-9df3-7bd7ef22d825.png)
 
