@@ -52,11 +52,12 @@ For this model (SMOTEENN)
 ### ClusterCentroids
 For this model (ClusterCentroids) 
 
-•	The accuracy score = 0.66
+•	The balanced accuracy score is 66%.
 
-•	Precision score = 0.99
+•	In the high-risk for this model, the precision score is 1% and recall score is 55% with F1 score of 1%.
 
-•	Recall score = 0.57
+•	In the low risk for this model, the precision score is 100% and recall score is 57% and F1 score is 73%.
+
 
 ![image](https://user-images.githubusercontent.com/105121697/188295292-bdc489d3-0ac9-4878-bf38-c6685d75bcce.png)
 
